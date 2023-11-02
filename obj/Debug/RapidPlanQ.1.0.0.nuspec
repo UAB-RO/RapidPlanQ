@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RapidPlanQ</id>
+    <version>1.0.0</version>
+    <authors>Rex Cardan, PhD</authors>
+    <description>Package Description</description>
+    <repository url="https://github.com/UAB-RO/RadpidPlanQ" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="EntityFramework" version="6.4.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\rcardan\source\repos\RapidPlanQ\bin\Debug\net461\RapidPlanQ.dll" target="lib\net461\RapidPlanQ.dll" />
+  </files>
+</package>

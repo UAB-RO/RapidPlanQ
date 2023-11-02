@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "NHTjUCxAzuCckOZW4/5Un++Og8rCO8Vh2dalAflschOAzkLnhMeezHZv3eqcjGfyCN3rL5xKx8BmJVyilv63Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rcardan\\source\\repos\\RapidPlanQ\\RapidPlanQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rcardan\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\rcardan\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\rcardan\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.3\\microsoft.netframework.referenceassemblies.net461.1.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://radoncphyprapp1:8624/nuget/UABRO/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

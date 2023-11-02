@@ -1,0 +1,12 @@
+C:\Users\rcardan\source\repos\RapidPlanQ\bin\Debug\net461\RapidPlanQ.dll
+C:\Users\rcardan\source\repos\RapidPlanQ\obj\Debug\net461\RapidPlanQ.AssemblyInfoInputs.cache
+C:\Users\rcardan\source\repos\RapidPlanQ\obj\Debug\net461\RapidPlanQ.AssemblyInfo.cs
+C:\Users\rcardan\source\repos\RapidPlanQ\bin\Debug\net461\RapidPlanQ.pdb
+C:\Users\rcardan\source\repos\RapidPlanQ\bin\Debug\net461\EntityFramework.SqlServer.dll
+C:\Users\rcardan\source\repos\RapidPlanQ\bin\Debug\net461\EntityFramework.dll
+C:\Users\rcardan\source\repos\RapidPlanQ\obj\Debug\net461\RapidPlanQ.csproj.CoreCompileInputs.cache
+C:\Users\rcardan\source\repos\RapidPlanQ\obj\Debug\net461\RapidPlanQ.csproj.CopyComplete
+C:\Users\rcardan\source\repos\RapidPlanQ\obj\Debug\net461\RapidPlanQ.dll
+C:\Users\rcardan\source\repos\RapidPlanQ\obj\Debug\net461\RapidPlanQ.pdb
+C:\Users\rcardan\source\repos\RapidPlanQ\obj\Debug\net461\RapidPlanQ.csproj.AssemblyReference.cache
+C:\Users\rcardan\source\repos\RapidPlanQ\obj\Debug\net461\RapidPlanQ.GeneratedMSBuildEditorConfig.editorconfig

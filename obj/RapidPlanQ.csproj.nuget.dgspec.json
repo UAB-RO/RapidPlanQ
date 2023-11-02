@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rcardan\\source\\repos\\RapidPlanQ\\RapidPlanQ.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rcardan\\source\\repos\\RapidPlanQ\\RapidPlanQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rcardan\\source\\repos\\RapidPlanQ\\RapidPlanQ.csproj",
+        "projectName": "RapidPlanQ",
+        "projectPath": "C:\\Users\\rcardan\\source\\repos\\RapidPlanQ\\RapidPlanQ.csproj",
+        "packagesPath": "C:\\Users\\rcardan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rcardan\\source\\repos\\RapidPlanQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rcardan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "http://radoncphyprapp1:8624/nuget/UABRO/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/redion-io/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
